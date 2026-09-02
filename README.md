@@ -30,7 +30,6 @@
 <p align="center">
   <a href="mailto:satyaprasad.nayak295@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/satyaprasad-nayak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <p align="center"><sub>Email and LinkedIn above are placeholders (<code>satyaprasad.nayak295@gmail.com</code> / <code>linkedin.com/satyaprasad-nayak</code>) — swap in the real ones, or this is just a very elaborate way to ghost people.</sub></p>
