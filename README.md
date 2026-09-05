@@ -18,7 +18,7 @@
 `Python` · `C` · `C++` · `Flutter/Dart` · `JavaScript` · `Kotlin`
 
 **Data & Backend**
-`FastAPI` · `Firebase` · `MongoDB` · `Python` · `Supabase`
+`FastAPI` · `Firebase` · `MongoDB` · `Python` · `Supabase` · `PostgreSQL`
 
 **Styling & State**
 `Riverpod` · `Tailwind CSS`
