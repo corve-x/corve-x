@@ -1,30 +1,6 @@
 <h1 align="center">Hi, I'm Satya 👋</h1>
 <h3 align="center">• STUDENT • DEV • APPS • CHILL</h3>
 
-<p align="center">
-  <em>CSE student who is currently building and exploring more.</em>
-</p>
-
----
-
-### More of Me
-
-- Hi, I'm Satyaprasad Nayak - a CS student passionate about building things and turning 'what if?' into 'hey, it works'. I enjoy learning through building and creating things that matter.
-- Based in Bangalore, India
-
-### Tech Stack
-
-**Languages**
-`Python` · `C` · `C++` · `Flutter/Dart` · `JavaScript` · `Kotlin`
-
-**Data & Backend**
-`FastAPI` · `Firebase` · `MongoDB` · `Python` · `Supabase` · `PostgreSQL`
-
-**Styling & State**
-`Riverpod` · `Tailwind CSS`
-
----
-
 ### Lets Connect!
 
 <p align="center">
