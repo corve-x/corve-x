@@ -2,7 +2,7 @@
 <h3 align="center">• STUDENT • DEV • APPS • CHILL</h3>
 
 <p align="center">
-### Lets Connect!
+ Lets Connect!
 </p>
 
 <p align="center">
