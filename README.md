@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Satya 🫪</h1>
-<h3 align="center">• STUDENT • DEV • APPS • CHILL</h3>
+<h3 align="center">• STUDENT • DEV  • CHILL</h3>
 
 <p align="center">
  Lets Connect!
